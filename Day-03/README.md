@@ -25,5 +25,5 @@ Created a simple webpage using HTML elements like h1, h2, center, hr, marquee, i
 
 ## Output
 
-![Task Output](./screenshot/output1.png)
-![Task Output](./screenshot/output2.png)
+![Task Output](./Screenshot/output1.png)
+![Task Output](./Screenshot/output2.png)
