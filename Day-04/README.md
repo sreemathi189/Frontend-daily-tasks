@@ -23,4 +23,4 @@ Created a Hospital Application Form using form, label, input tags with different
 
 ## Output
 
-![Task Output](./Screenshots/output.png)
+![Task Output](./Screenshot/output.png)
