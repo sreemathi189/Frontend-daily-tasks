@@ -25,4 +25,4 @@ Built a restaurant webpage with exterior and interior image galleries, a menu ca
 
 ## Output
 
-![Task Output](./screenshots/output.png)
+![Task Output](./screenshot/output1.png) ![Task Output](./screenshot/output2.png)
