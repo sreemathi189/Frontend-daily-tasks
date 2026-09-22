@@ -23,4 +23,4 @@ Built My Website with navigation links for Home, About, Projects, contact us, ad
 
 ## Output
 
-![Task Output](./screenshots/output.png)
+![Task Output](./screenshot/output.png)
