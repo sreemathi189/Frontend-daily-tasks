@@ -23,4 +23,4 @@ Created a simple form using form, label, and input tags with different input typ
 
 Output
 
-![Task Output](./screenshots/output.png)
+![Task Output](./Screenshots/output.png)
